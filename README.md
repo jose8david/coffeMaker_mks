@@ -20,7 +20,7 @@ Para preparar un café, sigue estos pasos:
 
 ---
 
-## ⚙️ Funcionamiento de la domotización
+## Funcionamiento de la domotización
 
 Después de realizar las cuatro operaciones anteriores, la máquina **suministra agua caliente** a través de la cápsula durante **20 segundos**. ¡Tenemos café!
 
@@ -33,7 +33,7 @@ Además:
 
 ---
 
-## 🔌 Explicación sencilla del circuito
+## Explicación sencilla del circuito
 
 Al conectar la máquina a la corriente y colocar el botón de encendido en la posición `I`, se genera un voltaje de 5 V.  
 Este voltaje pasa por un diodo (para evitar inversiones de polaridad) y alimenta los siguientes componentes:
@@ -48,7 +48,7 @@ Este voltaje pasa por un diodo (para evitar inversiones de polaridad) y alimenta
 
 ---
 
-### 🔥 Proceso de funcionamiento
+### Proceso de funcionamiento
 
 1. Al encender la máquina, el **calderín comienza a calentarse** hasta alcanzar una temperatura aproximada de **60 °C a 70 °C**.  
    (Se supone que el circuito original incluye alguna protección, como un **fusible térmico**, para cortar la corriente al calderín en caso de sobrecalentamiento).
@@ -63,7 +63,7 @@ Este voltaje pasa por un diodo (para evitar inversiones de polaridad) y alimenta
 
 ---
 
-## 🧩 Componentes principales
+## Componentes principales
 
 | Componente | Función | Pin del ESP8266 |
 |-------------|----------|----------------|
